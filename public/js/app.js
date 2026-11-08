@@ -192,11 +192,42 @@ const CHAPTERS = [
         caption: "Square D load center cleanly surrounded by kraft-faced batt insulation."
       },
       {
+        id: "24",
+        src: "/images/24-wall-mounted-weather-tv.jpg",
+        date: "Jan 8, 2024",
+        title: "Wall-Mounted Weather Radar Display",
+        caption: "Mounted a secondary TV display by the barn doors and transom window to track incoming Michigan winter storms."
+      },
+      {
         id: "23",
         src: "/images/23-snowy-woods-winter-shed.jpg",
         date: "Jan 11, 2024",
         title: "Snow Day in the Woods",
         caption: "January snowstorm in Michigan—quiet snow-covered trees all around and a warm, focused office inside."
+      }
+    ]
+  },
+  {
+    id: "seasons",
+    badge: "STAGE 05 · SETTLED INTO THE WOODS",
+    dateRange: "2024 – October 2025",
+    title: "Four Seasons Under the Trees",
+    description:
+      "Over two years into working from the shed full-time, it’s completely settled into the landscape—from bright green summer mornings and snowy January afternoons to a towering canopy of golden Michigan autumn leaves.",
+    photos: [
+      {
+        id: "25",
+        src: "/images/25-autumn-canopy-exterior.jpg",
+        date: "Oct 21, 2025",
+        title: "Autumn in the Michigan Woods",
+        caption: "Surrounded by peak fall foliage, stacked firewood, and a carpet of October leaves."
+      },
+      {
+        id: "26",
+        src: "/images/26-golden-fall-foliage.jpg",
+        date: "Oct 21, 2025",
+        title: "Under the Golden Canopy",
+        caption: "Looking up at the bright yellow and orange autumn canopy towering over the office shed."
       }
     ]
   }
