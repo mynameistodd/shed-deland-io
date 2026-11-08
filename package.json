@@ -1,0 +1,15 @@
+{
+  "name": "shed-deland-io",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cf dev",
+    "build": "cf build",
+    "deploy": "cf deploy"
+  },
+  "devDependencies": {
+    "cf": "^1.0.0-beta.24",
+    "wrangler": "^4.154.0"
+  }
+}
